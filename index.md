@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tamer Berat Çelik
 
 You can use the [editor on GitHub](https://github.com/aducat5/aducat5.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
