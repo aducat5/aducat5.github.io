@@ -4,7 +4,7 @@ I'm a simple fullstack developer who loves devops and automating things.
 
 ## Experiences
 
-###Payogi Electronical Money and Payment Services
+### Payogi Electronical Money and Payment Services
 - March 2021 / Current
 - Project Manager & Software Developer
 - Istanbul / Remote
@@ -17,7 +17,7 @@ I'm a simple fullstack developer who loves devops and automating things.
 - Summary:
   - ...
 
-###Invenoa Software & Communication
+### Invenoa Software & Communication
 - November 2018 / July 2021
 - Software Developer
 - Istanbul / Remote
@@ -30,18 +30,18 @@ I'm a simple fullstack developer who loves devops and automating things.
 - Summary:
   - ...
 
-##Education
+## Education
 
-###Marmara University
+### Marmara University
 - 2014 / 2018
 - CEIT (Computer Education and Information Technologies)
 - Bachelors Degree
 - 81 / 100 (2.8 / 4 GPA)
 
-##Projects
+## Projects
 ...
 
-##Roadmap
+## Roadmap
 ...
 
 TODO: fill the dotted areas
